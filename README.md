@@ -2,6 +2,10 @@
 
 
 
+磁场定向控制 Field-Oriented Control (FOC)
+
+
+
 [Simple Field Oriented Control](https://docs.simplefoc.com/docs_chinese/)
 
 [Simple Field Oriented Control_cn](https://simplefoc.cn/#/)
